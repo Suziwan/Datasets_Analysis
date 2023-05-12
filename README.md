@@ -1,4 +1,4 @@
-# Business_Teams_Data
+# Datasets_Analysis
 
 Week 3 Day 5 - Project: Understanding business teams by analysing their set of data.  
 NB: This project was done in French.
